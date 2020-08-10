@@ -79,3 +79,5 @@ The system is ready now.
 You can access it at URL given below:
 http://localhost/sms
 
+Username: admin
+Password: admin
